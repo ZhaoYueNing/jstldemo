@@ -101,5 +101,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<c:set var="url" value="http://www.zhaoyuening.cn"></c:set>
 	<a href="${url}">链接</a>	
 	<%-- <c:redirect url="${url}"></c:redirect> --%>
+	
 </body>
 </html>
